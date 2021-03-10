@@ -5,7 +5,7 @@ These images show the difference between these tree lenses:
 2. ~85° (according to the seller) (still sold as 100°) https://www.aliexpress.com/item/32795243112.html
 3. 100° https://www.aliexpress.com/item/1005001971793025.html
 
-1. to 3. left to right:
+1 to 3 left to right:
 
 ![img](https://raw.githubusercontent.com/wilhelmzeuschner/index_pnp_stuff/main/camera_lens/img/comparison_1.jpg "")
 ![img](https://raw.githubusercontent.com/wilhelmzeuschner/index_pnp_stuff/main/camera_lens/img/comparison_2.jpg "")
